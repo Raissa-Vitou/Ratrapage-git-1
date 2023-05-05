@@ -1,0 +1,7 @@
+a) git pull recupere les modifications du depot et les fusionne avec les modifications tandisque git fetch recupere les modifications du depot sans les fusionner .
+
+b) Pour annules les modification locales non validees on utilise la commande git reset .
+
+c) pour supprimer une branche distante dans git on utilise la commande git push --delete .
+
+d) pour voir l'historique des modification dpour un fichier specifique on utilise la commande git log .
